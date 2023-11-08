@@ -1,5 +1,12 @@
 # Site da Pizzaria Teste
 
+<table>
+  <tr>
+    <td><img src="images/2.jpg" alt="Janela de seleção de pedido"></td>
+    <td><img src="images/1.jpg" alt="Site"></td>
+  </tr>
+</table>
+
 O site da Pizzaria Teste foi criado com HTML, CSS e JavaScript para oferecer uma experiência de escolha e compra de pizzas online. Abaixo está uma explicação simplificada da estrutura do código e funcionalidades do site.
 
 ## Estrutura do Site (HTML)
