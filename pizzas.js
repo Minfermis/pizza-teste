@@ -1,0 +1,9 @@
+let pizzaJson = [
+    {id:1, name:'Mussarela', img:'images/pizza.png', price:20.19, sizes:['100g', '530g', '860g'], description:'Uma pizza simples e irresistível, com a clássica combinação de molho de tomate, mussarela derretida e orégano.'},
+    {id:2, name:'Calabresa', img:'images/pizza2.png', price:18.00, sizes:['320g', '530g', '860g'], description:'Uma deliciosa combinação de Linguiça Calabresa, rodelas de cebolas frescas, azeitonas pretas, mussarela, polpa de tomate, orégano e massa especial garante um sabor único à Pizza de Calabresa'},
+    {id:3, name:'Quatro Queijos', img:'images/pizza3.png', price:17.45, sizes:['320g', '530g', '860g'], description:'Uma experiência de queijos variados em cada pedaço, perfeita para os amantes do queijo.'},
+    {id:4, name:'Bacom com Chedder', img:'images/pizza4.png', price:19.77, sizes:['320g', '530g', '860g'], description:'Uma festa de sabores com bacon crocante e cheddar derretido em cada mordida.'},
+    {id:5, name:'Sorvete', img:'images/pizza5.png', price:21.43, sizes:['320g', '530g', '860g'], description:'Uma jornada de sabor com o contraste do chocolate branco derretendo na sua boca.'},
+    {id:6, name:'Moda da Casa', img:'images/pizza6.png', price:18.55, sizes:['320g', '530g', '860g'], description:'Uma seleção especial de nossos ingredientes mais pedidos (frango, bacon, catupiry, deliciosa mussarela e batata-palha) que vai surpreender seu paladar.'},
+    {id:7, name:'Chocolate', img:'images/pizza7.png', price:22.36, sizes:['320g', '530g', '860g'], description:'Um deleite para os amantes de chocolate escuro, com sabor intenso em cada fatia.'}
+];
