@@ -9,6 +9,8 @@
 
 O site da Pizzaria Teste foi criado com HTML, CSS e JavaScript para oferecer uma experiência de escolha e compra de pizzas online. Abaixo está uma explicação simplificada da estrutura do código e funcionalidades do site.
 
+[Pizzaria Teste - Acesse o Site](https://minfermis.github.io/pizza-teste/)
+
 ## Estrutura do Site (HTML)
 O arquivo `index.html` é a estrutura principal do site, onde estão definidos:
 
